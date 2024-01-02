@@ -71,4 +71,5 @@ Create a second IAM user with different permissions and experiment with IAM role
 3. **Explore:** Log in to the [AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html) and navigate around to get a feel for the interface.
 
 Remember, this is just the beginning of an exciting 30-day journey into AWS mastery. Tomorrow, we'll dive deeper into specific AWS services. Happy learning! 🌐🎓
+
 [Continue to Day 3](../Day03/README.md)
