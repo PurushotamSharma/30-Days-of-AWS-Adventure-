@@ -42,5 +42,5 @@ Remember, this is just the beginning of an exciting 30-day journey into AWS mast
 
 ---
 
-[Continue to Day 2](./Day02/README.md)
+[Continue to Day 2](../Day02/README.md)
 
