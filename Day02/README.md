@@ -72,4 +72,9 @@ Create a second IAM user with different permissions and experiment with IAM role
 
 Remember, this is just the beginning of an exciting 30-day journey into AWS mastery. Tomorrow, we'll dive deeper into specific AWS services. Happy learning! 🌐🎓
 
-[Continue to Day 3](../Day03/README.md)
+[⬅️ Previous Day](../Day01/README.md)  |  [Next Day 3 ➡️](../Day03/README.md)
+
+
+
+
+                                                                                                                                                                                                                                                                                              
