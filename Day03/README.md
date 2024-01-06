@@ -157,4 +157,5 @@ Join the conversation on social media using #AWS30DaysSeries. Share your EC2 rev
 
 Happy Cloud Computing! ☁️🚀
 
-[Continue to Day 4](../Day04/README.md)
+[⬅️ Previous Day](../Day02/README.md)  |  [Next Day ➡️](../Day04/README.md)
+
