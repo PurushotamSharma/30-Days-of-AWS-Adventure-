@@ -39,16 +39,21 @@ Today, we embark on the journey of creating a robust Virtual Private Cloud (VPC)
 - **Security Groups**: Define rules to control inbound and outbound traffic for instances.
 - **NACLs**: Use NACLs to add an extra layer of security at the subnet level.
 
-## Documentation Structure 📄
 
-- **day7-project.md**: Main documentation file for today's project.
-  - Overview
-  - Tasks
-  - Helpful Tips
-  - Results and Validation
 
 ## Let's Get Started! 🚧
 
 Begin the day by navigating to the AWS Management Console and dive into the AWS VPC service. Follow the outlined tasks, and feel free to explore additional AWS features to enhance the security and efficiency of our VPC.
+
+
+
+## Practical Hands-On Zone 👐
+
+For a detailed step-by-step walkthrough and practical tips, check out my blog post on Medium: [Building a Secure VPC with Public and Private Subnets in AWS](https://medium.com/p/f327067eeb74).
+
+Feel free to follow along and dive deeper into the practical aspects of today's project.
+
+
+
 
 Happy cloud building! ☁️🔒🔄🔧
